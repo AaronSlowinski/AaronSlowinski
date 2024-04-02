@@ -2,7 +2,7 @@
 ![1706286756724](https://github.com/AaronSlowinski/AaronSlowinski/assets/112444675/b92bf0f7-84fc-414e-a98f-0cc11186c5d7)
 
 <h1 align="center">Hi 👋, I'm Aaron Slowinski Pleasure to meet you!</h1>
-<h3 align="center">A PASSIONATE DevOps | Cloud Engineer | Software Engineer</h3>
+<h3 align="center">A PASSIONATE DevOps Engineer | Cloud Engineer | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AaronSlowinski&label=Profile%20views&color=0e75b6&style=flat" alt="AaronSlowinski" /> </p>
 
